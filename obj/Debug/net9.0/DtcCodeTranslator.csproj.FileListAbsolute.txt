@@ -1,0 +1,194 @@
+C:\Users\Durae\Documents\DtcCodeTranslator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Durae\Documents\DtcCodeTranslator\bin\Debug\net9.0\appsettings.json
+C:\Users\Durae\Documents\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.staticwebassets.runtime.json
+C:\Users\Durae\Documents\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.staticwebassets.endpoints.json
+C:\Users\Durae\Documents\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.exe
+C:\Users\Durae\Documents\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.deps.json
+C:\Users\Durae\Documents\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.runtimeconfig.json
+C:\Users\Durae\Documents\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.dll
+C:\Users\Durae\Documents\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.pdb
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.AssemblyInfo.cs
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.RazorAssemblyInfo.cache
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.RazorAssemblyInfo.cs
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\scopedcss\bundle\DtcCodeTranslator.styles.css
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\scopedcss\projectbundle\DtcCodeTranslator.bundle.scp.css
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\oc6acpo3j6-b9sayid5wm.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\c8ees9te94-61n19gt1b8.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\nz5z1ds9rt-xtxxf3hu2r.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\p0lh7qxxxj-bqjiyaj88i.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\ofmu5zbptw-c2jlpeoesf.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\253rfqcwex-erw9l3u2r3.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\69p5kg8a57-aexeepp0ev.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\sxyr543z1h-d7shbmvgxk.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\j7fvrq7wiq-ausgxo2sd3.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\zt6juvipix-k8d9w2qqmf.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\8h1k4dpbum-cosvhxvwiu.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\gz7rjt1owi-ub07r2b239.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\mbp49cqg8e-fvhpjtyr6v.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\cngbwdlx4w-b7pk76d08c.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\9wxjp19hfx-fsbi9cje9m.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\dfib4ukq6c-rzd6atqjts.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\7y7lvln1r4-ee0r1s7dh0.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\r9s9gz7nfe-dxx9fxp4il.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\8e3mk3oyvx-jd9uben2k1.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\hsnagtb8yo-khv3u5hwcm.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\8lbmgneqbk-r4e9w2rdcm.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\crv8q4g2v6-lcd1t2u6c8.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\t00lrsvfs1-c2oey78nd0.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\nh06o31t1d-tdbxkamptv.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\6z0y78hrlq-j5mq2jizvt.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\rso2qqkydp-06098lyss8.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\hzdkcsxivu-nvvlpmu67g.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\k5i77v5psi-s35ty4nyc5.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\gp890bv93p-pj5nd1wqec.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\p7pmpezdyg-46ein0sx1k.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\mjwq14fpzq-v0zj4ognzu.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\alf85lw9mr-37tfw0ft22.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\0g6nabduto-hrwsygsryq.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\ahunoeukcm-pk9g2wxc8p.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\tu7tyawuct-ft3s53vfgj.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\urjim4qenw-6cfz1n2cew.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\9ows0sc7w6-6pdc2jztkx.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\xloy3g5y72-493y06b0oq.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\muzy910gp7-iovd86k7lj.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\s6hmktvd4t-vr1egmr9el.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\0olrvixwo9-kbrnm935zg.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\kqu7y841vr-jj8uyg4cgr.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\h0hx4h27oz-y7v9cxd14o.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\xpj690bako-notf2xhcfb.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\zj1xoftuov-h1s4sie4z3.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\f4ssewuy6g-63fj8s7r0e.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\xwhuxwvkah-0j3bgjxly4.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\3u0a25hphq-47otxtyo56.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\armewrabiv-4v8eqarkd7.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\vtakkc29tt-356vix0kms.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\7pl4efz9ja-83jwlth58m.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\pwl5eu98gs-mrlpezrjn3.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\19b15hi6s2-lzl9nlhx6b.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\er6hqt6001-ag7o75518u.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\7okjoixh4s-x0q3zqp4vz.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\1tggi6ft41-0i3buxo5is.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\8v192npln8-o1o13a6vjx.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\jv79w4qcmf-ttgo8qnofa.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\u19ohndgwn-2z0ns9nrw6.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\ak13ry1tlt-muycvpuwrr.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\74t5zs4zij-87fc7y1x7t.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\mz48p7pz7v-mlv21k5csn.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\o30h0iyjbr-ga07xhfljm.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\compressed\4qluer78ty-ga07xhfljm.gz
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets\msbuild.DtcCodeTranslator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets\msbuild.DtcCodeTranslator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets\msbuild.build.DtcCodeTranslator.props
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DtcCodeTranslator.props
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DtcCodeTranslator.props
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.dll
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\refint\DtcCodeTranslator.dll
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.pdb
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.genruntimeconfig.cache
+C:\Users\Durae\Documents\DtcCodeTranslator\obj\Debug\net9.0\ref\DtcCodeTranslator.dll
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\bin\Debug\net9.0\appsettings.json
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.staticwebassets.runtime.json
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.staticwebassets.endpoints.json
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.exe
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.deps.json
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.runtimeconfig.json
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.dll
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\bin\Debug\net9.0\DtcCodeTranslator.pdb
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.AssemblyInfo.cs
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.RazorAssemblyInfo.cache
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.RazorAssemblyInfo.cs
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\scopedcss\bundle\DtcCodeTranslator.styles.css
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\scopedcss\projectbundle\DtcCodeTranslator.bundle.scp.css
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\oc6acpo3j6-b9sayid5wm.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\c8ees9te94-61n19gt1b8.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\nz5z1ds9rt-xtxxf3hu2r.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\p0lh7qxxxj-bqjiyaj88i.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\ofmu5zbptw-c2jlpeoesf.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\253rfqcwex-erw9l3u2r3.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\69p5kg8a57-aexeepp0ev.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\sxyr543z1h-d7shbmvgxk.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\j7fvrq7wiq-ausgxo2sd3.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\zt6juvipix-k8d9w2qqmf.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\8h1k4dpbum-cosvhxvwiu.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\gz7rjt1owi-ub07r2b239.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\mbp49cqg8e-fvhpjtyr6v.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\cngbwdlx4w-b7pk76d08c.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\9wxjp19hfx-fsbi9cje9m.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\dfib4ukq6c-rzd6atqjts.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\7y7lvln1r4-ee0r1s7dh0.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\r9s9gz7nfe-dxx9fxp4il.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\8e3mk3oyvx-jd9uben2k1.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\hsnagtb8yo-khv3u5hwcm.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\8lbmgneqbk-r4e9w2rdcm.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\crv8q4g2v6-lcd1t2u6c8.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\t00lrsvfs1-c2oey78nd0.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\nh06o31t1d-tdbxkamptv.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\6z0y78hrlq-j5mq2jizvt.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\rso2qqkydp-06098lyss8.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\hzdkcsxivu-nvvlpmu67g.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\k5i77v5psi-s35ty4nyc5.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\gp890bv93p-pj5nd1wqec.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\p7pmpezdyg-46ein0sx1k.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\mjwq14fpzq-v0zj4ognzu.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\alf85lw9mr-37tfw0ft22.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\0g6nabduto-hrwsygsryq.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\ahunoeukcm-pk9g2wxc8p.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\tu7tyawuct-ft3s53vfgj.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\urjim4qenw-6cfz1n2cew.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\9ows0sc7w6-6pdc2jztkx.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\xloy3g5y72-493y06b0oq.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\muzy910gp7-iovd86k7lj.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\s6hmktvd4t-vr1egmr9el.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\0olrvixwo9-kbrnm935zg.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\kqu7y841vr-jj8uyg4cgr.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\h0hx4h27oz-y7v9cxd14o.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\xpj690bako-notf2xhcfb.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\zj1xoftuov-h1s4sie4z3.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\f4ssewuy6g-63fj8s7r0e.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\xwhuxwvkah-0j3bgjxly4.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\3u0a25hphq-47otxtyo56.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\armewrabiv-4v8eqarkd7.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\vtakkc29tt-356vix0kms.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\7pl4efz9ja-83jwlth58m.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\pwl5eu98gs-mrlpezrjn3.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\19b15hi6s2-lzl9nlhx6b.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\er6hqt6001-ag7o75518u.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\7okjoixh4s-x0q3zqp4vz.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\1tggi6ft41-0i3buxo5is.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\8v192npln8-o1o13a6vjx.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\jv79w4qcmf-ttgo8qnofa.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\u19ohndgwn-2z0ns9nrw6.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\ak13ry1tlt-muycvpuwrr.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\74t5zs4zij-87fc7y1x7t.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\mz48p7pz7v-mlv21k5csn.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\o30h0iyjbr-ga07xhfljm.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\compressed\4qluer78ty-ga07xhfljm.gz
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets\msbuild.DtcCodeTranslator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets\msbuild.DtcCodeTranslator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets\msbuild.build.DtcCodeTranslator.props
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DtcCodeTranslator.props
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DtcCodeTranslator.props
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.dll
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\refint\DtcCodeTranslator.dll
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.pdb
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\DtcCodeTranslator.genruntimeconfig.cache
+C:\Users\Matthew Cypres\Desktop\DtcCodeTranslator\obj\Debug\net9.0\ref\DtcCodeTranslator.dll

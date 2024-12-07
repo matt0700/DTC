@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "DTC Code Translator";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-color: #f7f7f7;
+        }
+        .container {
+            max-width: 600px;
+            margin-top: 50px;
+        }
+        .result-box {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 5px;
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">DTC Code Translator</h1>
+
+        <!-- Form  -->
+        <form method="post" action="/DtcCode/Translate">
+            <div class="form-group">
+                <label for="dtcCode">Enter DTC Code:</label>
+                <input type="text" class="form-control" id="dtcCode" name="dtcCode" placeholder="Enter DTC Code" required />
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Translate</button>
+        </form>
+
+        <!-- Result -->
+        @if (ViewBag.DtcResult != null)
+        {
+            <div class="result-box">
+                <h5>Result:</h5>
+                <p><strong>Description: </strong> @ViewBag.DtcResult</p>
+            </div>
+        }
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script> <!-- Slim version of jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script> <!-- Popper.js -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> <!-- Bootstrap JS -->
+</body>
+</html>
