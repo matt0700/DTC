@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Matthew Cypres\\.nuget\\packages\\": {}
+    "C:\\Users\\Durae\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matthew Cypres\\Desktop\\DtcCodeTranslator\\DtcCodeTranslator.csproj",
+      "projectUniqueName": "C:\\Users\\Durae\\Documents\\GitHub\\DTC\\DtcCodeTranslator.csproj",
       "projectName": "DtcCodeTranslator",
-      "projectPath": "C:\\Users\\Matthew Cypres\\Desktop\\DtcCodeTranslator\\DtcCodeTranslator.csproj",
-      "packagesPath": "C:\\Users\\Matthew Cypres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matthew Cypres\\Desktop\\DtcCodeTranslator\\obj\\",
+      "projectPath": "C:\\Users\\Durae\\Documents\\GitHub\\DTC\\DtcCodeTranslator.csproj",
+      "packagesPath": "C:\\Users\\Durae\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Durae\\Documents\\GitHub\\DTC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Matthew Cypres\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Durae\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -42,7 +42,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DtcCodeTranslator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b59c669ca879fa0c63f95f527d953fc1e5af25f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DtcCodeTranslator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DtcCodeTranslator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
